@@ -1,0 +1,7 @@
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\E3-2JimenezAhumadaJonatanAlberto\E3-2JimenezAhumadaJonatanAlberto\bin\Debug\E3-2JimenezAhumadaJonatanAlberto.exe.config
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\E3-2JimenezAhumadaJonatanAlberto\E3-2JimenezAhumadaJonatanAlberto\bin\Debug\E3-2JimenezAhumadaJonatanAlberto.exe
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\E3-2JimenezAhumadaJonatanAlberto\E3-2JimenezAhumadaJonatanAlberto\bin\Debug\E3-2JimenezAhumadaJonatanAlberto.pdb
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\E3-2JimenezAhumadaJonatanAlberto\E3-2JimenezAhumadaJonatanAlberto\obj\Debug\E3-2JimenezAhumadaJonatanAlberto.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\E3-2JimenezAhumadaJonatanAlberto\E3-2JimenezAhumadaJonatanAlberto\obj\Debug\E3-2JimenezAhumadaJonatanAlberto.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\E3-2JimenezAhumadaJonatanAlberto\E3-2JimenezAhumadaJonatanAlberto\obj\Debug\E3-2JimenezAhumadaJonatanAlberto.exe
+C:\Users\Sony Vaio\Documents\EstructuraDeDatos\E3-2JimenezAhumadaJonatanAlberto\E3-2JimenezAhumadaJonatanAlberto\obj\Debug\E3-2JimenezAhumadaJonatanAlberto.pdb
