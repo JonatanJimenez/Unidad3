@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\EstructuraDeDatos\Vacas\Vacas\bin\Debug\Vacas.exe.config
+C:\Users\Usuario\Documents\EstructuraDeDatos\Vacas\Vacas\obj\Debug\Vacas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\EstructuraDeDatos\Vacas\Vacas\bin\Debug\Vacas.exe
+C:\Users\Usuario\Documents\EstructuraDeDatos\Vacas\Vacas\bin\Debug\Vacas.pdb
+C:\Users\Usuario\Documents\EstructuraDeDatos\Vacas\Vacas\obj\Debug\Vacas.exe
+C:\Users\Usuario\Documents\EstructuraDeDatos\Vacas\Vacas\obj\Debug\Vacas.pdb

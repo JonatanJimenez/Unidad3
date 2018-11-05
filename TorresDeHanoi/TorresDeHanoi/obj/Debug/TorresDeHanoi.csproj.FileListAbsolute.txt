@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\EstructuraDeDatos\TorresDeHanoi\TorresDeHanoi\bin\Debug\TorresDeHanoi.exe.config
+C:\Users\Usuario\Documents\EstructuraDeDatos\TorresDeHanoi\TorresDeHanoi\bin\Debug\TorresDeHanoi.exe
+C:\Users\Usuario\Documents\EstructuraDeDatos\TorresDeHanoi\TorresDeHanoi\bin\Debug\TorresDeHanoi.pdb
+C:\Users\Usuario\Documents\EstructuraDeDatos\TorresDeHanoi\TorresDeHanoi\obj\Debug\TorresDeHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\EstructuraDeDatos\TorresDeHanoi\TorresDeHanoi\obj\Debug\TorresDeHanoi.exe
+C:\Users\Usuario\Documents\EstructuraDeDatos\TorresDeHanoi\TorresDeHanoi\obj\Debug\TorresDeHanoi.pdb
